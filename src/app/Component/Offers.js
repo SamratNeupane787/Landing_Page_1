@@ -32,19 +32,19 @@ const Offers = () => {
                             <div className=" sm: grid place-items-center">
                               <SiAdobeindesign className=" text-4xl mt-5 text-cyan-950" />
                                 <p className=" text-xl">Professionally Designed</p>
-                                < p className="text-left text-sm my-4 mr-2 ">Our experienced in-house team does the magic that optimizes the website and makes it visually appealing.</p>
+                                < p className="lg:text-left text-sm my-4 mr-2 sm:text-center ">Our experienced in-house team does the magic that optimizes the website and makes it visually appealing.</p>
 
                             </div>
                             <div className=" sm: grid place-items-center">
                                <RiMoneyEuroBoxLine className=" text-4xl mt-5 text-cyan-950"/>
                                 <p className=" text-xl">Money Generative</p>
-                                < p className="text-left text-sm my-4 mr-2 "> Don't miss any sales opportunities. We create interactive websites that is competent on any mobile device.</p>
+                                < p className="lg:text-left text-sm my-4 mr-2 sm:text-center  "> Don't miss any sales opportunities. We create interactive websites that is competent on any mobile device.</p>
 
                             </div>
                         <div className=" sm: grid place-items-center">
                             <RiMoneyEuroBoxLine className=" text-4xl mt-5 text-cyan-950"/>
                             <p className=" text-xl">Money Generative</p>
-                            < p className="lg:text-left text-sm my-4 mr-2 "> Don't miss any sales opportunities. We create interactive websites that is competent on any mobile device.</p>
+                            < p className="lg:text-left text-sm my-4 mr-2 sm:text-center "> Don't miss any sales opportunities. We create interactive websites that is competent on any mobile device.</p>
 
                         </div>
                     </div>
